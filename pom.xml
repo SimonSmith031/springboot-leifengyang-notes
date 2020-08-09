@@ -29,6 +29,9 @@
             </plugin>
         </plugins>
     </build>
+    <modules>
+        <module>HelloWorld</module>
+    </modules>
 
     <!--父项目真正来管理Spring Boot应用里面所有的依赖版本
         Spring Boot版本仲裁中心，以后我们导入依赖默认是不需要写版本的，

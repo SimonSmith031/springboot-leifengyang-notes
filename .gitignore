@@ -2,3 +2,6 @@
 /.idea/
 /target/
 /spring.log
+/Spring-Boot.iml
+/HelloWorld/HelloWorld.iml
+/HelloWorld/target/
